@@ -2,4 +2,6 @@ My name is Jon and I am a product owner in the Kernel Cloud. My favorite animal 
 
 My favorite color is purple
 
+My favorite city is Tokyo.
+
 Copyright 2019
